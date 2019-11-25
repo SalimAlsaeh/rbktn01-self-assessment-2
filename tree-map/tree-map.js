@@ -50,7 +50,7 @@ var Tree = function(value) {
          });
       } 
     }
-    
+
     findElement(newTree);
     return newTree;
  };
